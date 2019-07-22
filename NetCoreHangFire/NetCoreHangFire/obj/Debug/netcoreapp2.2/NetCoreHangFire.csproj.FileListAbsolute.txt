@@ -1,0 +1,14 @@
+D:\LEARNING\HangFire\NetCoreHangFire\NetCoreHangFire\obj\Debug\netcoreapp2.2\NetCoreHangFire.csproj.CoreCompileInputs.cache
+D:\LEARNING\HangFire\NetCoreHangFire\NetCoreHangFire\bin\Debug\netcoreapp2.2\NetCoreHangFire.deps.json
+D:\LEARNING\HangFire\NetCoreHangFire\NetCoreHangFire\bin\Debug\netcoreapp2.2\NetCoreHangFire.runtimeconfig.json
+D:\LEARNING\HangFire\NetCoreHangFire\NetCoreHangFire\bin\Debug\netcoreapp2.2\NetCoreHangFire.runtimeconfig.dev.json
+D:\LEARNING\HangFire\NetCoreHangFire\NetCoreHangFire\bin\Debug\netcoreapp2.2\NetCoreHangFire.dll
+D:\LEARNING\HangFire\NetCoreHangFire\NetCoreHangFire\bin\Debug\netcoreapp2.2\NetCoreHangFire.pdb
+D:\LEARNING\HangFire\NetCoreHangFire\NetCoreHangFire\obj\Debug\netcoreapp2.2\NetCoreHangFire.RazorAssemblyInfo.cache
+D:\LEARNING\HangFire\NetCoreHangFire\NetCoreHangFire\obj\Debug\netcoreapp2.2\NetCoreHangFire.RazorAssemblyInfo.cs
+D:\LEARNING\HangFire\NetCoreHangFire\NetCoreHangFire\obj\Debug\netcoreapp2.2\NetCoreHangFire.AssemblyInfoInputs.cache
+D:\LEARNING\HangFire\NetCoreHangFire\NetCoreHangFire\obj\Debug\netcoreapp2.2\NetCoreHangFire.AssemblyInfo.cs
+D:\LEARNING\HangFire\NetCoreHangFire\NetCoreHangFire\obj\Debug\netcoreapp2.2\NetCoreHangFire.RazorTargetAssemblyInfo.cache
+D:\LEARNING\HangFire\NetCoreHangFire\NetCoreHangFire\obj\Debug\netcoreapp2.2\NetCoreHangFire.dll
+D:\LEARNING\HangFire\NetCoreHangFire\NetCoreHangFire\obj\Debug\netcoreapp2.2\NetCoreHangFire.pdb
+D:\LEARNING\HangFire\NetCoreHangFire\NetCoreHangFire\obj\Debug\netcoreapp2.2\NetCoreHangFire.csprojAssemblyReference.cache
